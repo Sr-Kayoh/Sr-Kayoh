@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bem-vindo ao meu perfil!
 
-<!--
-**Sr-Kayoh/Sr-Kayoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Eu sou Kayo, um desenvolvedor apaixonado por tecnologia e inovação.
 
-Here are some ideas to get you started:
+## Sobre mim
+- 🌱 Atualmente estou aprendendo Programação em html.
+- 👨🏼‍🚀 Estou procurando colaborar em projetos interessantes e áreas inovadoras.
+- 🐧Me siga no Instagram: @Kayo.Player.
+- 📫 Email para contato: KayoKennedy086@gmail.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meu Currículo
+Confira meu currículo publicado no GitHub Pages:
+https://sr-kayoh.github.io/Curriculo-kayo/
+
+## Estatísticas do GitHub
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARJOM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ARJOM&layout=compact&langs_count=8&theme=algolia"/>
